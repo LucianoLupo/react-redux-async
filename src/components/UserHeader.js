@@ -9,7 +9,7 @@ class UserHeader extends Component {
         }else {
             return (
                 <div className="header">
-                    <h1>{user.name}</h1>
+                    <p>{user.name}</p>
                 </div>
             )
         }
