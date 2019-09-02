@@ -12,8 +12,8 @@ class PostList extends Component {
     renderList() {
         return this.props.posts.map(post => {
             return (
-                <Grid.Column>
-                <Card.Group key= {post.id} >
+                <Grid.Column key= {post.id}>
+                <Card.Group>
                     <Card >
                     <Card.Content>
                         <Card.Header>{post.title}</Card.Header>
