@@ -1,5 +1,5 @@
 
-# playing arround 
+# Playing arround 
 ## with react redux redux-thunk and async-await to fetch some mock api.... (for a react redux course)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
